@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-taiwind/static/css/main.975566fb.css",
+    "main.js": "/react-taiwind/static/js/main.ace62216.js",
+    "static/js/787.de0cb994.chunk.js": "/react-taiwind/static/js/787.de0cb994.chunk.js",
+    "index.html": "/react-taiwind/index.html",
+    "main.975566fb.css.map": "/react-taiwind/static/css/main.975566fb.css.map",
+    "main.ace62216.js.map": "/react-taiwind/static/js/main.ace62216.js.map",
+    "787.de0cb994.chunk.js.map": "/react-taiwind/static/js/787.de0cb994.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.975566fb.css",
+    "static/js/main.ace62216.js"
+  ]
+}
